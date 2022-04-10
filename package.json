@@ -1,0 +1,23 @@
+{
+  "name": "oura-api-v2-nodejs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mitsuoka0423/oura-api-v2-nodejs-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitsuoka0423/oura-api-v2-nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/mitsuoka0423/oura-api-v2-nodejs-sample#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
