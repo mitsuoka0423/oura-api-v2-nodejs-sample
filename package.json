@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mitsuoka0423/oura-api-v2-nodejs-sample#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^1.6.0"
   }
 }
